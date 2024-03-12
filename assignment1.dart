@@ -1,3 +1,4 @@
+
 class Media {
   void play() {
     print("Playing media");
@@ -19,6 +20,8 @@ void main() {
   Media media = Media();
   media.play();
 
-  Song song = Song('John Doe');
+  Song song = Song('Hasan');
   song.play();
 }
+
+
